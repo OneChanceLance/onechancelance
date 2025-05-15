@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, Python, React, LuaU**
 
-- 📫 You can reach me at **jakemaragos@gmail.com**
+- 📫 You can reach me at **aris.onechancelance@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
