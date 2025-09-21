@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aris</h1>
 <h3 align="center">Full-Stack developer from Michigan</h3>
 
-- 🔭 I’m currently working on [a spiritual assistant app](https://github.com/OneChanceLance/pathfinder)
+- 🔭 I’m currently working on [my portfolio](onechancelance.github.io)
 
 - 🌱 I’m currently learning **Vue with Typescript**
 
