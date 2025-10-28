@@ -1,0 +1,20 @@
+<!-- /assets/stack.svg -->
+<svg width="1100" height="120" viewBox="0 0 1100 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech I use">
+  <rect x="5" y="5" width="1090" height="110" rx="16" ry="16" fill="#ffffff" stroke="#dddddd"/>
+  <image x="30"   y="40" height="40" href="./icons/css3.svg"/>
+  <image x="95"   y="40" height="40" href="./icons/express.svg"/>
+  <image x="160"  y="40" height="40" href="./icons/figma.svg"/>
+  <image x="225"  y="40" height="40" href="./icons/firebase.svg"/>
+  <image x="290"  y="40" height="40" href="./icons/git.svg"/>
+  <image x="355"  y="40" height="40" href="./icons/html5.svg"/>
+  <image x="420"  y="40" height="40" href="./icons/java.svg"/>
+  <image x="485"  y="40" height="40" href="./icons/javascript.svg"/>
+  <image x="550"  y="40" height="40" href="./icons/mongodb.svg"/>
+  <image x="615"  y="40" height="40" href="./icons/nodejs.svg"/>
+  <image x="680"  y="40" height="40" href="./icons/puppeteer.svg"/>
+  <image x="745"  y="40" height="40" href="./icons/python.svg"/>
+  <image x="810"  y="40" height="40" href="./icons/react.svg"/>
+  <image x="875"  y="40" height="40" href="./icons/selenium.svg"/>
+  <image x="940"  y="40" height="40" href="./icons/typescript.svg"/>
+  <image x="1005" y="40" height="40" href="./icons/vuejs.svg"/>
+</svg>
