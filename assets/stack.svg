@@ -1,20 +1,19 @@
-<!-- /assets/stack.svg -->
 <svg width="1100" height="120" viewBox="0 0 1100 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech I use">
   <rect x="5" y="5" width="1090" height="110" rx="16" ry="16" fill="#ffffff" stroke="#dddddd"/>
-  <image x="30"   y="40" height="40" href="./icons/css3.svg"/>
-  <image x="95"   y="40" height="40" href="./icons/express.svg"/>
-  <image x="160"  y="40" height="40" href="./icons/figma.svg"/>
-  <image x="225"  y="40" height="40" href="./icons/firebase.svg"/>
-  <image x="290"  y="40" height="40" href="./icons/git.svg"/>
-  <image x="355"  y="40" height="40" href="./icons/html5.svg"/>
-  <image x="420"  y="40" height="40" href="./icons/java.svg"/>
-  <image x="485"  y="40" height="40" href="./icons/javascript.svg"/>
-  <image x="550"  y="40" height="40" href="./icons/mongodb.svg"/>
-  <image x="615"  y="40" height="40" href="./icons/nodejs.svg"/>
-  <image x="680"  y="40" height="40" href="./icons/puppeteer.svg"/>
-  <image x="745"  y="40" height="40" href="./icons/python.svg"/>
-  <image x="810"  y="40" height="40" href="./icons/react.svg"/>
-  <image x="875"  y="40" height="40" href="./icons/selenium.svg"/>
-  <image x="940"  y="40" height="40" href="./icons/typescript.svg"/>
-  <image x="1005" y="40" height="40" href="./icons/vuejs.svg"/>
+  <image x="30"   y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+  <image x="95"   y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
+  <image x="160"  y="40" height="40" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+  <image x="225"  y="40" height="40" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+  <image x="290"  y="40" height="40" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <image x="355"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+  <image x="420"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <image x="485"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <image x="550"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <image x="615"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <image x="680"  y="40" height="40" href="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"/>
+  <image x="745"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <image x="810"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+  <image x="875"  y="40" height="40" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"/>
+  <image x="940"  y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <image x="1005" y="40" height="40" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"/>
 </svg>
