@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Aris</h1>
-<h3 align="center">Full-Stack developer from Michigan</h3>
+<h3 align="center">Full-Stack engineer from Michigan</h3>
 
 - 🔭 I’m currently working on [my portfolio](onechancelance.github.io)
 
